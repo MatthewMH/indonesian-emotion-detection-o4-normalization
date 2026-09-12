@@ -2,7 +2,7 @@
 
 This repository contains the implementation and data used in the study:
 
-**Improving Indonesian Emotion Detection with OpenAI o4-mini Text Normalization**
+**Improving Indonesian Emotion Detection with OpenAI o4-mini Text Normalization** (https://www.sciencedirect.com/science/article/pii/S1877050925026900)
 
 The study evaluates the effect of OpenAI o4-mini text normalization on Indonesian emotion classification using:
 
